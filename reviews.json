@@ -1,0 +1,269 @@
+{
+    "reviews": [
+        {
+            "id": "pinacoteca",
+            "title": "Pinacoteca",
+            "type": "mytype",
+            "qa": [
+                {   "question": "",
+                    "answer" : ""
+                },
+                
+                {   "question": "Quartiere di Stampace",
+                    "answer":"Stampace  è uno dei quattro quartieri storici della città di Cagliari. Il quartiere, situato nel centro storico cittadino, a Ovest del Castello di Cagliari, venne fondato dai Pisani nel tredicesimo secolo e da essi dotato di un modesto sistema di fortificazione (di cui resta la torre dello Sperone)."
+                },
+                
+                
+                {   "question": "La pinacoteca Nazionale di Cagliari",
+                    "answer" : "La Pinacoteca Nazionale di Cagliari, situata all’interno del complesso museale della Cittadella dei Musei, nasce sulla preesistente struttura del Regio Arsenale. Dopo essere stata ospitata fin dalla fine dell’Ottocento nel Palazzo delle Seziate nella vicina Piazza Indipendenza, e, per più di un secolo, chiusa al pubblico, ha trovato la sua definitiva collocazione nell’attuale sede inaugurata nel 1992."
+                },
+                { "question": "Che cosa è un retablo rettangolo",
+                  "answer" : "Retablo è un termine di origine spagnola che indica una grande pala d'altare inquadrata architettonicamente. Il retablo può essere costituito da un dipinto su tavola a scomparti che a seconda delle parti di cui si compone può essere un dittico, un trittico o un polittico, ma può essere anche formato da scomparti in rilievo."
+                    
+                },
+                
+                {   "question": "Architettura dell'edificio",
+                    "answer" : "Dal punto di vista architettonico l’edificio rappresenta un interessante connubio tra le antiche mura spagnole, progettate da Rocco Capellino ed ampliate da Giorgio e Jacopo Palearo nel XVI secolo, e l’attuale assetto razionalista moderno che perfettamente si inserisce all’interno dello suggestivo quartiere medievale di Castello."
+                },
+                
+                {   "question": "Paesaggio, vista veduta panorama",
+                    "answer" : "La felice ubicazione della pinacoteca offre al visitatore un’incantevole veduta panoramica della città di Cagliari."
+                },
+                
+                {   "question": "collezione san francesco",
+                    "answer" : "Il primo nucleo della collezione pittorica si formò nel diciannovesimo secolo quando, a seguito della soppressione degli enti ecclesiastici nel 1866 e della distruzione nel 1875 della chiesa cagliaritana di San Francesco di Stampace, confluirono nel patrimonio dello Stato numerosi dipinti. "
+                },
+                
+                {   "question": "collezione pezzi",
+                    "answer" : "L'intero patrimonio della Pinacoteca consta di ben 1272 pezzi, tra dipinti, oreficeria, tessuti e ricami, materiale lapideo e stemmi, armi, arredo domestico, cestini e intrecci, ceramiche, arredo liturgico e sculture."
+                },
+                           
+                {
+                    "question": "Storia di Cagliari",
+                    "answer": "Nel 1326 il Castello di Cagliari, fiorente città di formazione e cultura pisana, si consegna definitivamente agli Aragonesi."
+                },
+                {
+                    "question": "Dall'arte italica a quella iberica",
+                    "answer": "A tutti gli effetti il 1326 chiude, non solo per Cagliari ma per gran parte della Sardegna, il ciclo della civiltà artistica medioevale segnata da presenze italiche, I riferimenti culturali si orientano gradualmente, ma sempre più decisamente, in direzione del versante iberico."
+                }
+            ]
+        },
+        
+        
+        
+        {
+            "id": "Antioco Mainas",
+            "title": "Antioco Mainas",
+            "type": "mytype",
+            "qa": [
+                {
+                    "question": "Dove è nato?",
+                    "answer": "E nato a Cagliari"
+                },
+                {
+                    "question": "Quando è nato?",
+                    "answer": "E nato nel 1508"
+                },
+                {
+                    "question": "A quale corrente appartiene?",
+                    "answer": "E' stato un pittore italiano, uno dei maggiori in Sardegna durante il periodo catalano."
+                },
+                {
+                    "question": "Informazioni ",
+                    "answer": "Antioco Mainas nato a Cagliari, nel 1508.  Morto sempre a Cagliari nella seconda metà sedicesimo secolo. E' stato un pittore italiano, uno dei maggiori in Sardegna durante il periodo catalano."
+                }
+            ]
+        },
+        {
+           "id": "Adorazione",
+           "title": "Adorazione",
+           "type": "painting",
+           "qa":[
+               {
+                  "question": "Cosa posso chiedere? aiuto che domande posso fare?",
+                   "answer": "Puoi chiedere: la descrizione generale, la provenienza, informazioni sull'autore" 
+               },
+               {
+                  "question": "Che dimensioni ha l'opera?",
+                   "answer": " La tavola misura 275 per 261 centimetri circa" 
+               },
+               {
+                  "question": "Che tecnica e materiali sono utilizzati? - di che cosa è fatta",
+                   "answer": " Tempera su tavola" 
+               },
+               {
+                   "question": "Descrizione generale, descrivi il quadro",
+                   "answer": "Il retablo del presepio è costituito da una tavola centrale, quattro tavole laterali di cui due a sinistra e due a destra, una tavola superiore centrale e 7 piccoli scomparti che compongono la parte inferiore del retablo chiamata predella. Nella tavola centrale è rappresentata la scena dell'adorazione dei pastori."
+               },
+               
+               {
+                   "question": "Da dove proviene, la provenienza, dove si trovava",
+                   "answer": "Il retablo proviene dalla chiesa di San Francesco di Stampace dove era collocato nella cappella di patronato della famiglia Carnicer. "
+               },
+               {
+                   "question": "Chi è l'autore, chi l'ha dipinto, chi l'ha fatto, informazioni sull'autore",
+                   "answer": "L'autore dell'opera a tutt'oggi, rimane ancora anonimo. Per convenzione viene indicato come il Maestro del presepio."
+               },
+               
+               {
+                   "question": "Tavola centrale, scena del presepio adorazione dei pastori",
+                   "answer": "La tavola raffigura la scena della natività. E' rappresentata una capanna con apertura ad arco delineata da mattoni rosso chiaro, all’interno del quale sono presenti il bue e l’asinello di fronte alla mangiatoia.. La struttura è costituita da un solo ambiente con ingresso frontale , . Nella parte alta della capanna sono raffigurati  sei angeli che reggono un festone bianco, In basso a sinistra sono raffigurati in ginocchio in atto di adorazione la Madonna e San Giuseppe , ai loro piedi steso  sopra un lembo del mantello della madonna il Bambino rappresentato nudo con le braccia aperte. Nella zona opposta sono posizionati su tre livelli i tre pastori.  sullo sfondo  un paesaggio di ispirazione fiamminga"
+               },
+               {
+                   "question": "Come è rappresentata la madonna, descrivi maria",
+                   "answer": "La Madonna con aureola circolare dorata,  indossa una veste color rosso scuro con i bordi dorati con motivo a rilievo, il manto in broccato con disegni vegetali sul rosso e oro, con una bordatura dorata motivo a rilievo. Lo sguardo rivolto verso il Bambino, cappelli ondulati che cadono sulle spalle, le mani giunte rivolte verso il basso. "
+               },
+               {
+                   "question": "Di che colore è il vestito di Maria",
+                   "answer": "La Madonna indossa una veste color rosso scuro con i bordi dorati con motivo a rilievo, il manto in broccato con disegni vegetali sul rosso e oro, con una bordatura dorata motivo a rilievo."
+               },
+               {
+                   "question": "Come sono i capelli di Maria",
+                   "answer": "Maria porta i capelli ondulati che ricadono sulle spalle."
+               },
+               {
+                   "question": "Che espressione ha il volto di Maria",
+                   "answer": "Lo sguardo è rivolto in basso verso il bambino."
+               },
+               {
+                   "question": "Di che colore sono gli occhi di Maria",
+                   "answer": "Gli occhi sono socchiusi con lo sguardo rivolto verso il basso."
+               },
+               {
+                   "question": "Come è raffigurato San Giuseppe",
+                   "answer": "Alla sinistra della Madonna , San Giuseppe con aureola a cresta  dorata, abito viola con bordi dorati e mantello rosso sempre con bordatura dorata, con sopra un altro ridotto mantello con cappuccio nero. IL Santo ha la barba e i capelli grigi,  lo sguardo rivolto verso il Bambino, con mani giunte verso il basso. Dalla veste si intravede il piede nero sinistro. All’interno delle braccia piegate scorre un bastono lungo che arriva sino a terra. "
+               },
+               {
+                   "question": "Descrivi i pastori?",
+                   "answer": "Sono raffigurati tre pastori: il primo in basso è inginocchiato in atto di adorazione messo di profilo sinistro; In secondo sempre in ginocchio, visibile la parte superiore e parte della gamba sinistra, più in alto sempre sulla destra un’ altro pastore in piedi che suona uno strumento musicale"
+               },
+               {
+                   "question": "Descrivi il primo pastore",
+                   "answer": "Il primo pastore in basso è inginocchiato in atto di adorazione messo di profilo sinistro, con capelli neri lunghi, barba e baffi neri, con le braccia piegate e mani aperte. Indossa un abito marrone con cintura, dove è stato appeso un lungo coltello provvisto di custodia che scende sul lato dell’abito. Appesa sul braccio sinistro una borraccia tonda con due piccoli manici e un tappo di colore bianco. Alla sinistra del pastore sono poggiati per terra un bastone e un cappello scuro"
+               },
+               {
+                   "question": "Descrivi il secondo pastore",
+                   "answer": "In secondo pastore è raffigurato in ginocchio, visibile la parte superiore e parte della gamba sinistra, con un copricapo rosso, lunga barba grigia, viso visto di tre quarti,  sguardo rivolto verso il basso. Indossa un mantello verde, ha tra le braccia un agnello e un bastone. Al lato della cintura una piccola borsa intrecciata di paglia , da cui sono visibili un cucchiaio di legno e una borraccia. "
+               },
+               {
+                   "question": "Descrivi il terzo pastore",
+                   "answer": "Più in alto sempre sulla destra un’ altro pastore in piedi che suona uno strumento musicale fatto da due trombe separate da un tessuto rosso. I capelli sono lunghi e chiari, e la testa è cinta i da un nastro di stoffa bianco, indossa una veste corta marron con cintura bianca da cui pende una piccola borsa e un piccolo mantello rosa. "
+               },
+               {
+                   "question": "sfondo paesaggio",
+                   "answer": "sullo sfondo un paesaggio di ispirazione fiamminga, con verdi colline e castelli medievali"
+               },
+               {
+                   "question": "Datazione, periodo, quando è stato dipinto",
+                   "answer": "L'opera risale alla fine del quindicesimo secolo"
+               },
+               {
+                   "question": "Descrivi gli angeli",
+                   "answer": "Nella parte alta della capanna sono raffigurati  sei angeli che reggono un festone bianco, dove sono presenti delle note musicali. Alcuni angeli hanno delle ali dorate con profili rossi, altri hanno le ali con sfumature di bianco, rosso e verde. "
+               },
+               {
+                   "question": "descrivi la parte esterna della capanna",
+                   "answer": "Nella zona esterna alla capanna a sinistra su un muro è posizionata una mensola su cui poggiano una cipolla e utensili da cucina, e una treccia di aglio appesa. "
+               },
+               {
+                   "question": "Descrivi il bambino",
+                   "answer": "il Bambino è rappresentato nudo con le braccia aperte con aureola circolare crociata steso  sopra un lembo del mantello della madonna "
+               },
+               {
+                   "question": "Perchè l'aureola è circolare cosa significa",
+                   "answer": "Questo lo dovete chiedere a Marcella"
+               },
+               {
+                   "question": "Perchè l'aureola è ottagonale a cresta poligonale cosa significa",
+                   "answer": "Questo lo dovete chiedere a Marcella"
+               },
+               {
+                   "question": "Perchè l'aureola è crociata cosa significa",
+                   "answer": "Questo lo dovete chiedere a Marcella"
+               },
+               {
+                   "question": "Descrivi il bue e l'asinello",
+                   "answer": "Il bue e l'asinello si trovano all'interno della capanna. Il bue e' di color bruno mentre l'asinello intento a mangiare ha il manto color grigio chiaro"
+               },
+               {
+                   "question": " ",
+                   "answer": " "
+               }
+               
+               
+           ]
+            
+        },
+        {
+            "id": "Annunciazione",
+            "title": "Annunciazione",
+            "type": "painting",
+            "qa": [
+                {
+                    "question": "Cosa posso chiedere?",
+                    "answer": "Puoi chiedere: la descrizione generale, la provenienza, informazioni sull'autore"
+                },
+                {
+                    "question": "Descrizione generale, personaggi rappresentati",
+                    "answer": "La tavola raffigura la scena dell'annunciazione dove sono rappresentati  l'angelo Gabriele a sinistra e Maria Vergine a destra"
+                },
+                {
+                    "question": "Che tipo di materia materiale e tecnica sono utilizzate",
+                    "answer": "Tempera e olio su tavola"
+                },
+                {
+                    "question": "Cosa fa l'angelo e come è raffigurato ",
+                    "answer": "L'angelo Gabriele è raffigurato semi inginocchiato con la mano sinistra aperta e rivolta verso Maria"
+                },
+                {
+                    "question": "Come è vestito l'angelo  gabriele ",
+                    "answer": "L'angelo Gabriele ha un mantello rosso sopra una veste bianca"        },
+                {
+                    "question": "Da dove proviene, dov'era, la provenienza",
+                    "answer": "Probabilmente questa tavola, insieme alla Crocefissione  e al Transito della Vergine  faceva parte di un retablo proveniente dalla chiesa di San Francesco ad Oristano."
+                },
+                {
+                    "question": "Come è disposta Maria",
+                    "answer": "La Madonna è seduta con le spalle rivolte verso l'angelo, colta nell'atto di voltarsi spaventata verso il richiamo del messaggero divino"
+                },
+                {
+                    "question": "Come è l'ambiente",
+                    "answer": "E' un ambiente chiuso, la cui austerità pare mitigata unicamente dal drappo verde appeso al muro, appena dietro la Madonna."
+                },
+                {
+                    "question": "Chi è l'autore?",
+                    "answer": "L'autore della tavola è il maestro Antioco Mainas",
+                    "link": "Antioco Mainas"
+       },
+                {
+                    "question": "Di che periodo è?",
+                    "answer": "Metà del secolo sedicesimo"
+                }
+            ]
+        },
+        {
+            "id": "Crocefissione",
+            "title": "Crocefissione",
+            "type": "mytype",
+            "qa": [
+                {
+                    "question": "Descrizione generale",
+                    "answer": "Il dipinto fa parte probabilmente di un retablo eseguito per la chiesa di Sant'Efisio di Giorgino a Cagliari, di patronato della famiglia Ballèro.  Dell'opera sono oggi noti solo due elementi: quello appunto raffigurante la Crocifissione, custodito in Pinacoteca e una Madonna in trono col Bambino e angeli, di proprietà privata;  La Crocifissione è costruita in maniera molto elementare: sullo sfondo di una città costiera turrita, campeggiano, sovradimensionate rispetto al cristo in Croce, le figure di San Giovanni e della Madonna; in basso compaiono il teschio e gli strumenti del martirio.  Le due tavole furono attribuite a Lorenzo Càvaro dall'Aru (1924) e la loro assegnazione rimane, allo stato degli studi, invariata e probabile, vista l'innegabile affinità stilistica con il retablo di Gonnostramatza, opera datata e firmata dal pittore stampacino."
+                },
+                {
+                    "question": "Come è l'ambiente",
+                    "answer": " sullo sfondo di una città costiera turrita, campeggiano, sovradimensionate rispetto al cristo in Croce, le figure di S. Giovanni e della Madonna; in basso compaiono il teschio e gli strumenti del martirio."
+                },
+                {
+                    "question": "Chi è l'autore?",
+                    "answer": "Lorenzo Càavaro"
+                },
+                {
+                    "question": "Di che periodo è?",
+                    "answer": "1507"
+                }
+            ]
+        }
+
+    ]
+}
