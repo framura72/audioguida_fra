@@ -186,6 +186,14 @@
                    "answer": "Il bue e l'asinello si trovano all'interno della capanna. Il bue e' di color bruno mentre l'asinello intento a mangiare ha il manto color grigio chiaro"
                },
                {
+                   "question": "Descrivi il paesaggio nello sfondo",
+                   "answer": "Il paesaggio nello sfondo mostra per lo piu' colline e montagne verdi con qualche costruzione per lo piu' castelli e un gregge di pecore nella parte destra"
+               },
+               {
+                   "question": "Sono raffigurati animali?",
+                   "answer": "Oltre il bue e l'asinello che si trovano nella parte centrale del dipinto, e' raffigurato un cane nero accucciato davanti alla mangiatoia e un gregge di pecore nello sfondo paesaggistico"
+               },
+               {
                    "question": " ",
                    "answer": " "
                }
